@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automne on Recipes</title>
+    <link>https://example.com/tags/automne/</link>
+    <description>Recent content in automne on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 30 Oct 2023 15:36:09 -0600</lastBuildDate>
+    <atom:link href="https://example.com/tags/automne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soupe rouge</title>
+      <link>https://example.com/soupe-rouge/</link>
+      <pubDate>Mon, 30 Oct 2023 15:36:09 -0600</pubDate>
+      <guid>https://example.com/soupe-rouge/</guid>
+      <description>La fameuse &amp;ldquo;soupe rouge&amp;rdquo;, idéale pour ouvrir la saison de la soupe avec les dernières courgettes&amp;hellip;
+Ingrédients 4 carottes 2 poireaux 1 oignon 1 poireau 1 morceau de celeri rave 1 grde boite de pulpe de tomate thym herbes de provences Tout couper en morceaux de taille homogène, mettre dans de l&amp;rsquo;eau bouillante, faire chauffer, mixer, servez</description>
+    </item>
+  </channel>
+</rss>

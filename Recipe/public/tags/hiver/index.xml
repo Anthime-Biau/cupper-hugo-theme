@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hiver on Recipes</title>
+    <link>https://example.com/tags/hiver/</link>
+    <description>Recent content in hiver on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 19 Dec 2023 21:10:09 -0600</lastBuildDate>
+    <atom:link href="https://example.com/tags/hiver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac &amp; Cheese</title>
+      <link>https://example.com/mac-and-cheese/</link>
+      <pubDate>Tue, 19 Dec 2023 21:10:09 -0600</pubDate>
+      <guid>https://example.com/mac-and-cheese/</guid>
+      <description>Mac &amp;amp; Cheese, qui comme son nom l&amp;rsquo;indique contient des &amp;ldquo;Mac&amp;rdquo;, macaronis et du cheesecourgettes&amp;hellip;
+Ingrédients 50g de beurre 50g de farine 1L de lait entier 1 oignon jaune 500g de coquillette 120g de parmesan 180g de cheddar 1 mozza fior di latte Sel, poivre, noix de muscade Commencez par hacher finement l&amp;rsquo;oignon. Rappez votre cheddar, parmesan. Réservez un peu de parmessan. Ajouter des cubes de mozzas (pour optimiser les fils) Mettez le beurre dans une casserole pour réaliser une béchamelle.</description>
+    </item>
+  </channel>
+</rss>

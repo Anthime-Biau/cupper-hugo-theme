@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegetarien on Recipes</title>
+    <link>https://example.com/tags/vegetarien/</link>
+    <description>Recent content in vegetarien on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 19 Dec 2023 21:10:09 -0600</lastBuildDate>
+    <atom:link href="https://example.com/tags/vegetarien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac &amp; Cheese</title>
+      <link>https://example.com/mac-and-cheese/</link>
+      <pubDate>Tue, 19 Dec 2023 21:10:09 -0600</pubDate>
+      <guid>https://example.com/mac-and-cheese/</guid>
+      <description>Mac &amp;amp; Cheese, qui comme son nom l&amp;rsquo;indique contient des &amp;ldquo;Mac&amp;rdquo;, macaronis et du cheesecourgettes&amp;hellip;
+Ingrédients 50g de beurre 50g de farine 1L de lait entier 1 oignon jaune 500g de coquillette 120g de parmesan 180g de cheddar 1 mozza fior di latte Sel, poivre, noix de muscade Commencez par hacher finement l&amp;rsquo;oignon. Rappez votre cheddar, parmesan. Réservez un peu de parmessan. Ajouter des cubes de mozzas (pour optimiser les fils) Mettez le beurre dans une casserole pour réaliser une béchamelle.</description>
+    </item>
+    <item>
+      <title>Curry Japonais vegetarien</title>
+      <link>https://example.com/curry-japonais/</link>
+      <pubDate>Tue, 31 Oct 2023 16:36:09 -0600</pubDate>
+      <guid>https://example.com/curry-japonais/</guid>
+      <description>Direction le Japon, pour préparer un délicieux curry.
+Possibilité de réaliser soit même la pâtes de curry. Ou bien de l&amp;rsquo;acheter tout fait dans une epicerie asiatique. Idéal servi avec du riz et des oeufs tamago.
+Ingrédients 2 blocs de pâtes de curry 8 Champignons bruns frais 3 carottes 2 pommes de terre 1 oignon 1 gousse d&amp;rsquo;ail 2 ou 3cm de gingembre rapé 1 bouillon Sel Commencer par hacher finament l&amp;rsquo;oignon Coupez les carottes en morceau de 2/3 cm Découpez les pommes de terre en gros morceau (en 4 ou 6 en fonction de la taille) Couper seulement les champignons les plus gros pour garder du volume Ajouter les oignons dans une grosse casseroles avec de l&amp;rsquo;huile d&amp;rsquo;olive, jusqu&amp;rsquo;à ce qu&amp;rsquo;ils se colorent Déglacez avec 1L de bouillon, ajoutez le reste des légumes ainsi que la pâtes de curry Ajoutez l&amp;rsquo;ail rapé, et 2-3cm de gingembre frais rapés.</description>
+    </item>
+  </channel>
+</rss>

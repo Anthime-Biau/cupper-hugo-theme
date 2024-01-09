@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ptit-dej on Recipes</title>
+    <link>https://example.com/tags/ptit-dej/</link>
+    <description>Recent content in ptit-dej on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 31 Oct 2023 16:36:09 -0600</lastBuildDate>
+    <atom:link href="https://example.com/tags/ptit-dej/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canadian pancakes</title>
+      <link>https://example.com/canadian-pancakes/</link>
+      <pubDate>Tue, 31 Oct 2023 16:36:09 -0600</pubDate>
+      <guid>https://example.com/canadian-pancakes/</guid>
+      <description>N&amp;rsquo;a rien a envié de sa cousine bretonne&amp;hellip;
+Ingrédients (12 pancakes) 500ml de farine 10ml (2 c.a.c) de poudre magic 2 oeufs 60ml de sucre 5ml d&amp;rsquo;extrait de vanille 430ml de lait Dans un bol, mélanger la farine et la poudre magic. Réserver. Dans un grand bol, fouetter les oeufs, le sucre et la vanille environ 5min au batteur electrique jusqu&amp;rsquo;à ce que le mélange triple de volume. A basse vitesse, ajouter la moitié du lait puis incorporer les ingrédients secs.</description>
+    </item>
+  </channel>
+</rss>
